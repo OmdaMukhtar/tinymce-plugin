@@ -2,6 +2,11 @@
 
 ## Project setup
 ```
+git clone https://github.com/abuoop/tinymcePlugins.git
+
+```
+Then do :
+```
 npm install
 ```
 
