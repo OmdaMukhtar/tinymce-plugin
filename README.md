@@ -5,7 +5,7 @@
 git clone https://github.com/abuoop/tinymcePlugins.git
 
 ```
-#Then do :
+### Then do :
 ```
 npm install
 ```
