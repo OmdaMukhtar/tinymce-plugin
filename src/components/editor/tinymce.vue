@@ -11,6 +11,8 @@
 
 <script>
 import editor from '@tinymce/tinymce-vue';
+import tinymceInital from './config/tinymce';
+
 export default {
     data(){
         return {
@@ -22,7 +24,7 @@ export default {
     },
     computed: {
         inital(){
-            return {plugins: 'wordcount'};
+            return tinymceInital;
         }
     }
 }

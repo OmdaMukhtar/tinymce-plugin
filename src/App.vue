@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import editorApp from './components/editor/index'
+import editorApp from './components/editor/tinymce'
 
 export default {
   name: 'app',
