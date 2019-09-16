@@ -11,7 +11,7 @@
 
 <script>
 import editor from '@tinymce/tinymce-vue';
-import tinymceInital from './config/tinymce';
+import tinymceConfig from './config/tinymce';
 
 export default {
     data(){
@@ -24,7 +24,7 @@ export default {
     },
     computed: {
         inital(){
-            return tinymceInital;
+            return tinymceConfig.config;
         }
     }
 }

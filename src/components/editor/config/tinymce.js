@@ -1,6 +1,14 @@
+import { customPlugin } from '../plugins/mybuttonMenu/plugin.js';
+
 const config = {
-    plugins:"wordcount",
-    toolbar1: "wordcount",
+    select: "#app-editor",
+    plugins: "mybutton ",
+    toolbar1: "mybutton ",
+    setup: function () {
+
+        // Here we can add plugin 
+        window.tinymce.PluginManager.add('mybutton', customPlugin);
+    }
 }
 
-export default config;
+export default { config };
