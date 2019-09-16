@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-git clone https://github.com/abuoop/tinymcePlugins.git
+git clone https://github.com/OmdaMukhtar/tinymcePlugins.git
 
 ```
 ### Then do :
