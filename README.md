@@ -1,3 +1,4 @@
+[[https://github.com/username/repository/blob/master/src/assets/img/tinymce_plugin.png|alt=tinymce_plugin]]
 # tinymce_plugin
 
 ## Project setup
