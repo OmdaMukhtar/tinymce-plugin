@@ -1,4 +1,5 @@
-[[https://github.com/username/repository/blob/master/src/assets/img/tinymce_plugin.png|alt=tinymce_plugin]]
+![alt text](https://raw.githubusercontent.com/OmdaMukhtar/tinymcePlugins/master/src/assets/img/tinymce_plugin.png)
+
 # tinymce_plugin
 
 ## Project setup
