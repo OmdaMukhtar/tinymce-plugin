@@ -1,10 +1,10 @@
 ![alt text](https://raw.githubusercontent.com/OmdaMukhtar/tinymcePlugins/master/src/assets/img/tinymce_plugin.png)
 
-# tinymce_plugin
+# Tinymce Plugin
 
 ## Project setup
 ```
-git clone https://github.com/OmdaMukhtar/tinymcePlugins.git
+git clone https://github.com/OmdaMukhtar/TinymcePlugin.git
 
 ```
 ### Then do :
